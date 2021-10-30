@@ -1,1 +1,5 @@
-echo "Hola mi nombre es Fernandez Lia"
+#¡ /bin/bash 
+
+#este en un comentario
+
+echo "Hola mundo" 
